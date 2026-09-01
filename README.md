@@ -1,8 +1,10 @@
-# Dominick Lacroix | Cybersecurity & IT Portfolio
+# 👋 Dominick Lacroix
 
-## About Me
+### 🔐 Cybersecurity & IT Professional | CompTIA Security+ Certified
 
-I am an aspiring cybersecurity and IT professional with a background in operations management, team leadership, and employee development.
+Welcome to my professional portfolio, where I document hands-on cybersecurity projects, IT labs, technical skills, and my continued growth in the technology field.
+
+I am a cybersecurity and IT professional with CompTIA Security+ certification and a background in operations management, team leadership, and employee development.
 
 I am currently building my technical knowledge through hands-on labs, cybersecurity coursework, certifications, and personal projects. My goal is to transition into an IT or cybersecurity role where I can apply my problem-solving skills, leadership experience, attention to detail, and growing technical knowledge.
 
