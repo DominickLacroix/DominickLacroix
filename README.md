@@ -1,4 +1,28 @@
-## Hi there 👋
+DominickLacroix-Portfolio/
+│
+├── README.md
+│
+├── cybersecurity-projects/
+│   ├── wireshark-analysis/
+│   ├── vulnerability-management/
+│   ├── incident-response/
+│   └── security-audits/
+│
+├── it-projects/
+│   ├── active-directory-lab/
+│   ├── networking-labs/
+│   ├── windows-troubleshooting/
+│   └── linux-administration/
+│
+├── scripts/
+│   ├── python/
+│   └── powershell/
+│
+├── certifications/
+│   ├── security-plus/
+│   └── google-cybersecurity/
+│
+└── screenshots/
 
 <!--
 **DominickLacroix/DominickLacroix** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
