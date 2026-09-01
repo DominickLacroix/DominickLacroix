@@ -197,7 +197,7 @@ I believe my management background gives me valuable skills that transfer direct
 
 My current goals include:
 
-- Complete CompTIA Security+
+- Landing a Job in the cyber field / Help Desk
 - Continue building cybersecurity projects
 - Develop Python skills
 - Build a home cybersecurity lab
@@ -210,11 +210,11 @@ My current goals include:
 
 # Contact
 
-LinkedIn: [Your LinkedIn Link]
+LinkedIn: [https://www.linkedin.com/in/dominick-lacroix-aa95403b1/]
 
-GitHub: [Your GitHub Link]
+GitHub: [https://github.com/DominickLacroix/DominickLacroix]
 
-Email: [Your Professional Email]
+Email: [Dominick102102@gmail.com]
 
 ---
 
