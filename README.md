@@ -38,7 +38,7 @@ I am currently focused on developing skills in:
 ## Current Certifications
 
 - Google Cybersecurity Professional Certificate
-- CompTIA Security+ (Currently Studying)
+- CompTIA Security+
 
 ---
 
