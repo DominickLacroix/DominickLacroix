@@ -199,7 +199,7 @@ I believe my management background gives me valuable skills that transfer direct
 
 My current goals include:
 
-- Landing a Job in the cyber field / Help Desk
+- Secure an entry-level IT, Help Desk, SOC Analyst, or cybersecurity position
 - Continue building cybersecurity projects
 - Develop Python skills
 - Build a home cybersecurity lab
